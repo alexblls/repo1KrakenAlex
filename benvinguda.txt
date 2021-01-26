@@ -4,3 +4,4 @@ alex
 (C) Benvinguda a la branca 02 Alex
 (D) Modificacio 02 Main Alex
 (E) Afegim imatge a branca01
+(F) Afegim imatge a branca02
